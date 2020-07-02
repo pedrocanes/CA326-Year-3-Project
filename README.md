@@ -47,57 +47,57 @@ Core Combat has various object present in the game. Here you will find a run dow
 
 ![P1C][diagram1]
 
-[diagram1]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/1.png "Player 1 Core"
+[diagram1]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/1.png "Player 1 Core"
 
 1. Player 1 Core – Once touched 3 times, Player 2 wins
 
 
 ![P2C][diagram2]
 
-[diagram2]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/2.png "Player 2 Core"
+[diagram2]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/2.png "Player 2 Core"
 
 2. Player 2 Core – Once touched 3 times, Player 1 wins
 
 
 ![WA][diagram3]
 
-[diagram3]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/3.png "Wall"
+[diagram3]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/3.png "Wall"
 
 3.Wall – Immovable obstacle, spawned at random
 
 
 ![GU1][diagram4]
 
-[diagram4]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/4.png "Green Unit 1"
+[diagram4]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/4.png "Green Unit 1"
 
 
 ![GU2][diagram5]
 
-[diagram5]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/5.png "Green Unit 2"
+[diagram5]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/5.png "Green Unit 2"
 
 4. Green Unit – Takes one turn to build and can move 2 tiles per turn.
 
 
 ![RU1][diagram6]
 
-[diagram6]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/6.png "Red Unit 1"
+[diagram6]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/6.png "Red Unit 1"
 
 
 ![RU2][diagram7]
 
-[diagram7]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/7.png "Red Unit 2"
+[diagram7]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/7.png "Red Unit 2"
 
 5. Red Unit – Takes two turns to build and can move 3 tiles per turn.
 
 
 ![BU1][diagram8]
 
-[diagram8]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/8.png "Blue Unit 1"
+[diagram8]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/8.png "Blue Unit 1"
 
 
 ![BU2][diagram9]
 
-[diagram9]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/9.png "Blue Unit 2"
+[diagram9]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/9.png "Blue Unit 2"
 
 6. Blue Unit – Takes five turns to build and can move 5 tiles per turn.
 
@@ -110,7 +110,7 @@ The first step towards winning the game is the creation of the units. The player
 
 ![PM][diagram10]
 
-[diagram10]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/10.png "Player Menu"
+[diagram10]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/10.png "Player Menu"
 
 If the creation of a unit is indeed possible, the player will have to choose which unit to spawn. Each unit has a different energy value and more importantly, each unit has a different creation time. Therefore, a player will have to think about which unit is the best option at the time of creation. Creating a unit at the wrong time can turn out detrimental. For example, if there is an enemy unit near your core, creating a blue unit will leave your core unprotected for 5 turns, which will give plenty of time for the opponent to strike.
 Creating a unit is one of the most important actions to make, therefore, a lot of thought and planning must be done beforehand.
@@ -122,11 +122,11 @@ Moving your units is the basis of the game. The player needs to move their units
 
 ![UM][diagram11]
 
-[diagram11]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/11.png "Unit Move"
+[diagram11]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/11.png "Unit Move"
 
 ![UM2][diagram12]
 
-[diagram12]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/12.png "Unit Move2"
+[diagram12]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/12.png "Unit Move2"
 
 The player is allowed to move all their units on the board per turn until the units run out of energy. Once the energy is depleted, the player will have to wait until their next turn to move the units again. The units’ energy will refill at the start of each turn. The player can only move their units on their turn.
 
@@ -136,11 +136,11 @@ Attacking enemy objects is also another important aspect of the game. Throughout
 
 ![UA][diagram13]
 
-[diagram13]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/13.png "Unit attack"
+[diagram13]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/13.png "Unit attack"
 
 ![UA2][diagram14]
 
-[diagram14]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/14.png "Unit attack2"
+[diagram14]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/14.png "Unit attack2"
 
 Deciding to attack an enemy unit requires a lot of thought and planning. The player will have to make sure the unit has enough energy before opting to get close to the enemy unit, otherwise, the enemy unit will be able to easily reach the player’s unit and attack it on the next turn. To attack an enemy unit, the player will have to place their unit one tile away from the enemy unit, and if there is one or more energy left, the player can click on the enemy unit, removing it from the game, and using one unit energy level.
 
@@ -148,7 +148,7 @@ Attacking an enemy core works the same way. Once one of the player’s units is 
 
 ![UAC][diagram15]
 
-[diagram15]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/15.png "Unit attack core"
+[diagram15]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/15.png "Unit attack core"
 
 
 ## 5. User Interface
@@ -157,42 +157,42 @@ The user interface in Core Combat is very straight forward. Here you will find a
 
 ![PM2][diagram16]
 
-[diagram16]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/16.png "Player Menu"
+[diagram16]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/16.png "Player Menu"
 
 1. Player Menu – The player menu shows how many lives the player’s core has (top 3 squares). The menu also includes the buttons that will start the creation of each of the units. If the creation is not possible, the buttons will not be interactable. Beside the buttons, there is the number of turns taken before the unit appears on the board
 
 
 ![TP][diagram17]
 
-[diagram17]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/17.png "Turn Panel"
+[diagram17]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/17.png "Turn Panel"
 
 2. Turn Panel – Shows who’s turn it is.
 
 
 ![ET][diagram18]
 
-[diagram18]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/18.png "end turn"
+[diagram18]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/18.png "end turn"
 
 3. End Turn button - Button that will end the player’s turn and start the opponent’s turn.
 
 
 ![EP][diagram19]
 
-[diagram19]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/19.png "energy panel"
+[diagram19]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/19.png "energy panel"
 
 4.	Energy Panel – Shows the energy of a chosen unit. (Click on a unit to show this panel)
 
 
 ![EH][diagram20]
 
-[diagram20]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/20.png "exit help"
+[diagram20]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/20.png "exit help"
 
 5. Exit and Help Buttons – Clicking on the Exit button will ask for confirmation and if given will stop the Application. Help Button will show a help panel that gives a short explanation of the game.
 
 
 ![GO][diagram21]
 
-[diagram21]: https://gitlab.computing.dcu.ie/sukutiv2/2019-ca326-pedroandvelosproject/raw/master/images/usermanual/21.png "game over"
+[diagram21]: https://github.com/pedrocanes/CA326-Year-3-Project/tree/master/images/usermanual/21.png "game over"
 
 6.	Game Over Panel – Once one of the players wins, the panel will show who the winner is.
 
