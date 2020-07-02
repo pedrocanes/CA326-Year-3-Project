@@ -1,3 +1,11 @@
+# CA326-Year-3-Project
+CA326 Year 3 Project: Turn-based strategy game developed in C# using Unity Engine
+
+**Members:</br>
+-Pedro Canes</br>
+-Vilandas Sukutis**
+
+
 # CA326 User Manual - Core Combat
 ### Vilandas Sukutis & Pedro Marques Canes
 
